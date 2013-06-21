@@ -3,7 +3,7 @@ City-Gates
 
  City Gates it a Bukkit plugin designed to either open a gate by command, redstone, and or time.
  
- Copyright (C) 2013  ultrafastphil>
+ Copyright (C) 2013  ultrafastphil
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
